@@ -3,5 +3,8 @@ Snap
 Klabberabapp
 .
 ~
+wjw
+wkw
+wlw
 ----------------------
-KWAULKWAPPE
+QAULKWAPPE
